@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Precis</string>
+    <string name="enter_your_url_here">Enter your url here</string>
+    <string name="www_sample_com">www.sample.com</string>
+    <string name="your_summary">Your summary</string>
+    <string name="get">Get</string>
+    <string name="share">Share</string>
+    <string name="clear">Clear</string>
+    <string name="download">Download</string>
+</resources>
